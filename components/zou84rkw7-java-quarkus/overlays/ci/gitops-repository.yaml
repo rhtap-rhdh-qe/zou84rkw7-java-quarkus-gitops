@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zou84rkw7-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zou84rkw7-java-quarkus-gitops
